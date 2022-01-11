@@ -67,7 +67,7 @@ Para realizar un deposito se debe ingresar un número de cuenta, verificar que e
 Para realizar un retiro se debe ingresar un número de cuenta, verificar que existe buscando la cuenta y posteriormente ingresar el monto a retirar.
 
 <div align="center">
-<img src="src/media/p1-retirar.png">
+<img src="src/media/p2-retiro.png">
 <p><strong>Imagen:</strong> Retirar dinero de una cuenta.</p>
 </div>
 
@@ -82,7 +82,7 @@ Para cerrar una cuenta se debe ingresar un número de cuenta, verificar que exis
 ## Reportes
 
 <div align="center">
-<img src="src/media/menú-reportes.png">
+<img src="src/media/menu-reportes.png">
 <p><strong>Imagen:</strong> Menú de reportes.</p>
 </div>
 
@@ -136,3 +136,9 @@ Descripción del sistema, operaciones, reportes e integrantes del proyecto.
 <img src="src/media/a1-acerca-de.png">
 <p><strong>Imagen:</strong> Acerca de.</p>
 </div>
+
+## Autores
+- Farroñan R. Melyssa
+- Garcia L. Alejandra
+- Ramirez Benites Rafael
+- [Rojas Vera Aarón](https://github.com/Aaron-Shrike)
