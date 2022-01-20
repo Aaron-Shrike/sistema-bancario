@@ -10,20 +10,20 @@ Sistema Bancario en lenguaje Java GUI y base de datos PostgreSQL, Proyecto del *
 
 ## Uso
 1. [**Mantenimiento**](#mantenimiento)
- -[**Registrar Cliente**](#registrar-cliente)
- -[**Registrar Cuenta**](#registrar-cuenta)
+   - [**Registrar Cliente**](#registrar-cliente)
+   - [**Registrar Cuenta**](#registrar-cuenta)
 2. [**Procesos**](#procesos)
- -[**Depositar dinero a una cuenta**](#depositar-dinero)
- -[**Retirar dinero de una cuenta**](#retirar-dinero)
- -[**Cerrar una cuenta**](#cerrar-cuenta)
+   - [**Depositar dinero a una cuenta**](#depositar-dinero)
+   - [**Retirar dinero de una cuenta**](#retirar-dinero)
+   - [**Cerrar una cuenta**](#cerrar-cuenta)
 3. [**Reportes**](#reportes)
- -[**Listado general de cuentas**](#listado-general-de-cuentas)
- -[**Mostrar cuentas creadas en un año especifico**](#mostrar-cuentas-creadas-en-un-año-especifico)
- -[**Listado de cuentas de un cliente especifico**](#listado-de-cuentas-de-un-cliente-especifico)
- -[**Mostrar la cantidad de cuentas existentes de acuerdo al tipo de moneda**](#mostrar-la-cantidad-de-cuentas-existentes-de-acuerdo-al-tipo-de-moneda)
- -[**Listado de cuentas cerradas**](#listado-de-cuentas-cerradas)
+   - [**Listado general de cuentas**](#listado-general-de-cuentas)
+   - [**Mostrar cuentas creadas en un año especifico**](#mostrar-cuentas-creadas-en-un-año-especifico)
+   - [**Listado de cuentas de un cliente especifico**](#listado-de-cuentas-de-un-cliente-especifico)
+   - [**Mostrar la cantidad de cuentas existentes de acuerdo al tipo de moneda**](#mostrar-la-cantidad-de-cuentas-existentes-de-acuerdo-al-tipo-de-moneda)
+   - [**Listado de cuentas cerradas**](#listado-de-cuentas-cerradas)
 4. [**Ayuda**](#ayuda)
- -[**Acerca de**](#acerca-de)
+   - [**Acerca de**](#acerca-de)
 
 ## Mantenimiento
 
